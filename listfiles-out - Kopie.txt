@@ -1,0 +1,19 @@
+xxx: No such file or directory (errno 2)
+/dev/tty (other)
+
+listfiles-example-dir:
+empty.txt (regular, 0 Byte)
+empty-subdir (directory)
+example-subdir (directory)
+
+listfiles-example-dir/empty-subdir:
+
+listfiles-example-dir/example-subdir:
+subsub-dir (directory)
+example1.txt (regular, 18 Byte)
+example3.txt (regular, 24 Byte)
+example2.txt (regular, 25 Byte)
+
+listfiles-example-dir/example-subdir/subsub-dir:
+example4.txt (regular, 25 Byte)
+
